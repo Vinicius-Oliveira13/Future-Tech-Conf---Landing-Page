@@ -24,7 +24,7 @@ O projeto está estruturado em diferentes seções:
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/future-tech-conf-landing.git
+   git clone https://github.com/Vinicius-Oliveira13/future-tech-conf-landing.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
