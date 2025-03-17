@@ -35,7 +35,6 @@ O projeto está estruturado em diferentes seções:
 ## 📌 Melhorias Futuras
 - Adicionar integração com backend para inscrições.
 - Implementar animações e interatividade com JavaScript.
-- Criar uma versão com temas claros e escuros automáticos.
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar! 😊
